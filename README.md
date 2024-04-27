@@ -8,7 +8,7 @@ Made for React101 by [NSCC](https://nscckiet.tech)
 
 1. Clone this repo
 ```sh
-git clone url
+git clone git@github.com:Nemesis-AS/nscc-react101-plotforge.git
 ```
 
 2. Install dependencies
